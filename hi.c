@@ -2,6 +2,6 @@
 
 main(){
 
-peintf("hi keonhee")
+printf("hi keonhee")
 
 }
